@@ -5,3 +5,5 @@ require_relative "../lib/dancer"
 
 puts Kid.metadata
 puts Dancer.metadata
+pen = Kid.new("jklj")
+puts pen.twirl
